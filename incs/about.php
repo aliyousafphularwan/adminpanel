@@ -1,0 +1,1 @@
+you are visiting &nbsp; <u><?php echo $_GET["page"];?></u> &nbsp;page.
